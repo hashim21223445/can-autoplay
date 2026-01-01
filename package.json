@@ -14,7 +14,7 @@
     "google-closure-compiler-js": "^20170910.0.1",
     "jsdom": "^16.6.0",
     "mime-types": "^2.1.17",
-    "rollup": "^0.55.1",
+    "rollup": "^2.79.2",
     "rollup-plugin-babel": "^3.0.3",
     "standard": "^10.0.3"
   },
